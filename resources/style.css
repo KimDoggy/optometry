@@ -207,11 +207,6 @@ footer {
     max-width: 100%;
   }
 
-  .main-banner {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-  }
-
   .side-banner-container {
     left: -2rem;
     /*border: 1px solid green;*/
@@ -237,6 +232,7 @@ footer {
   }
 
   .banner {
+    /*border: 1px solid black;*/
     height: 17rem;
   }
 
